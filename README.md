@@ -1,16 +1,70 @@
-# React + Vite
+Elegant Todo
+Elegant Todo is a minimal, clean, and fast task-tracking app built to focus on simplicity. It lets you add tasks, mark them as complete, and remove the ones you don’t need — all with a smooth and distraction-free UI.
+Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Add new tasks quickly
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+Mark tasks as completed
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+Delete tasks
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Lightweight and responsive design
+
+
+Clean and elegant UI
+
+
+Tech Stack
+
+
+React.js
+
+
+CSS / Tailwind (or your styling choice)
+
+
+Getting Started
+git clone <your-repo-url>
+cd elegant-todo
+npm install
+npm start
+
+Project Structure
+src/
+  components/
+  App.js
+  index.js
+
+How to Use
+
+
+Type your task in the input box
+
+
+Press Add
+
+
+Click on a task to mark it complete
+
+
+Use delete to remove unwanted items
+
+
+Future Improvements
+
+
+LocalStorage support
+
+
+Filters (All / Completed / Pending)
+
+
+Smooth animations
+
+
+
+If you want, I can also create a better marketing-style intro, a dark theme version, or a GitHub-optimized README with badges.
