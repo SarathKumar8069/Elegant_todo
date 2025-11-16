@@ -26,39 +26,19 @@ React.js
 
 CSS / Tailwind (or your styling choice)
 
-
-Getting Started
-git clone <your-repo-url>
-cd elegant-todo
-npm install
-npm start
-
-Project Structure
-src/
-  components/
-  App.js
-  index.js
-
 How to Use
-
 
 Type your task in the input box
 
-
 Press Add
-
 
 Click on a task to mark it complete
 
-
 Use delete to remove unwanted items
-
 
 Future Improvements
 
-
 LocalStorage support
-
 
 Filters (All / Completed / Pending)
 
@@ -66,5 +46,3 @@ Filters (All / Completed / Pending)
 Smooth animations
 
 
-
-If you want, I can also create a better marketing-style intro, a dark theme version, or a GitHub-optimized README with badges.
